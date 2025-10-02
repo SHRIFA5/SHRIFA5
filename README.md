@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="https://www.youtube.com/@SFvision" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40SFVision&subtitle=@SFVision&size=square" alt="SFVision">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40SFvision&subtitle=@SFvision&size=square" alt="SFvision">
       </a>
     </td>
     <td align="center">
